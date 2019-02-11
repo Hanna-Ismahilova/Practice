@@ -1,1 +1,2 @@
 My first line in the file
+My second line in the file - it will be my second commit via GIT:)
