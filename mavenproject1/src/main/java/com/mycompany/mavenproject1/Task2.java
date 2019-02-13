@@ -6,7 +6,7 @@ package com.mycompany.mavenproject1;
  *
  * @author Hanna_Ismahilova
  */
-public class Zadanie2 {
+public class Task2 {
     public static void main(String[] args) {
         String text = "JavaRush. Learn once - use anywhere";
         System.out.println(text);

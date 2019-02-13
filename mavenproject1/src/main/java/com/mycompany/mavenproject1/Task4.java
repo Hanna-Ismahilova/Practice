@@ -8,7 +8,7 @@ package com.mycompany.mavenproject1;
  *
  * @author Hanna_Ismahilova
  */
-public class Zadanie4 {
+public class Task4 {
     public static void main(String[] args) {
         printCircleLength(255);
     }

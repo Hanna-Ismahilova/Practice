@@ -13,7 +13,7 @@ package com.mycompany.mavenproject1;
  *
  * @author Hanna_Ismahilova
  */
-public class Zadanie7 {
+public class Task7 {
     public static void main(String[] args) {
         System.out.println(convertCelsiumToFahrenheit(41));
     }

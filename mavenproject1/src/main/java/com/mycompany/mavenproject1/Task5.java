@@ -10,7 +10,7 @@ package com.mycompany.mavenproject1;
  *
  * @author Hanna_Ismahilova
  */
-public class Zadanie5 {
+public class Task5 {
     public static void main(String[] args) {
         hackSalary(3000);
     }

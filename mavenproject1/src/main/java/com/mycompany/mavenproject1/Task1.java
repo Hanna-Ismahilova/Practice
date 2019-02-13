@@ -5,7 +5,7 @@ package com.mycompany.mavenproject1;
 //Порядок следования переменных в этой строке изменять нельзя.
 //Перед каждой переменной должен стоять знак либо плюс, либо минус.
 
-public class Zadanie1 {
+public class Task1 {
     public static int a = 1;
     public static int b = 3;
     public static int c = 9;

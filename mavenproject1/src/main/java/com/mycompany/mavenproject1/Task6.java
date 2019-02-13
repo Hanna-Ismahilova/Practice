@@ -9,7 +9,7 @@ package com.mycompany.mavenproject1;
  *
  * @author Hanna_Ismahilova
  */
-public class Zadanie6 {
+public class Task6 {
     public static void main(String[] args) {
         Person person = new Person();//напишите тут ваш код
     }
