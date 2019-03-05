@@ -12,11 +12,11 @@ public class SCops {
 		if(d != 0 && (n & d) == 0) {//Укороченная операция предотвращает деnенне на нуnь
 			System.out.println(d + " является делителем " + n);
 			
-			d = 0;
+			//d = 0;
 			if(d != 0 && (n & d) == 0) {
 				System.out.println(d + " является делителем " + n);
 				
-				if(d != 0 & (n & d) == 0) {
+				if(d !=0 & (n & d) == 0) {
 					System.out.println(d + " является делителем " + n);
 				}
 			}
