@@ -8,7 +8,7 @@ public class SwitchDemo {
 		
 		int i;
 		
-		for(i = 0; i < 6; i++) 
+		for(i = 0; i < 9; i++) 
 		switch (i) {
 		case 0:
 			System.out.println("i равно нулю");
