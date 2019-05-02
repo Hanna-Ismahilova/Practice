@@ -13,9 +13,11 @@ public class Vehicle {
    // minivan.fuelcap = 16; //точечная нотация. объект слева а член (переменная, метод) справа после точки
 
 
+    //Определить дальность поездки транспортного средства
     void range(){
         System.out.println("Дальность " + fuelcap * mpg + " миль");
     }
+
     void myMeth() {
         int i;
 
@@ -24,10 +26,16 @@ public class Vehicle {
             System.out.println("Цикл выполнен");
         }
     }
+
     //Возврат дальности поездки.
     int range3(){
         return fuelcap * mpg;
-
     }
+
+    //расчет объема топлива, необходимого для преодоления заданного расстояния.
+    double fuelneeded(int miles){
+        return (double) miles / mpg;
+    }
+
 
 }
