@@ -1,5 +1,6 @@
 package com.mycompany.mavenproject1;
 
+//Применение оператора continue 
 public class ContDemo {
 
 	public static void main(String[] args) {
