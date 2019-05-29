@@ -1,4 +1,4 @@
-package com.mycompany.mavenproject1.classes;
+package com.mycompany.mavenproject1.classes.methodWith2Param;
 
 public class IsFact {
     public static void main(String[] args) {

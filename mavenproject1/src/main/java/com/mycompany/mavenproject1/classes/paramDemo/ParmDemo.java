@@ -1,4 +1,4 @@
-package com.mycompany.mavenproject1.classes;
+package com.mycompany.mavenproject1.classes.paramDemo;
 
 public class ParmDemo {
     public static void main(String[] args) {

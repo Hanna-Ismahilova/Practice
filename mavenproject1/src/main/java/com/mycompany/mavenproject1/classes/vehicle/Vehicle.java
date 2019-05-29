@@ -1,4 +1,4 @@
-package com.mycompany.mavenproject1.classes;
+package com.mycompany.mavenproject1.classes.vehicle;
 
 import java.sql.SQLOutput;
 

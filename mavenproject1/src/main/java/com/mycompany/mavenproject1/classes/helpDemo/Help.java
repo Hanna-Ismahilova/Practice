@@ -1,4 +1,4 @@
-package com.mycompany.mavenproject1.classes;
+package com.mycompany.mavenproject1.classes.helpDemo;
 
 public class Help {
     void helpon(int what) {

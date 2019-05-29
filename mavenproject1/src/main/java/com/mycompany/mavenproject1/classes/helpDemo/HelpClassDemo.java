@@ -1,4 +1,4 @@
-package com.mycompany.mavenproject1.classes;
+package com.mycompany.mavenproject1.classes.helpDemo;
 
 public class HelpClassDemo {
     public static void main(String[] args) throws java.io.IOException {

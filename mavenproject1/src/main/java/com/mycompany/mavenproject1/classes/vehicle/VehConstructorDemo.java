@@ -1,4 +1,4 @@
-package com.mycompany.mavenproject1.classes;
+package com.mycompany.mavenproject1.classes.vehicle;
 
 public class VehConstructorDemo {
     public static void main(String[] args) {
