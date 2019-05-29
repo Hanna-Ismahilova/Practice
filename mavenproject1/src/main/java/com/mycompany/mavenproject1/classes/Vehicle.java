@@ -13,6 +13,15 @@ public class Vehicle {
    // minivan.fuelcap = 16; //точечная нотация. объект слева а член (переменная, метод) справа после точки
 
 
+
+    //Kонструктор класса Vehicle
+    Vehicle (int p, int f, int m) {
+        passengers = p;
+        fuelcap = f;
+        mpg = m;
+    }
+
+
     //Определить дальность поездки транспортного средства
     void range(){
         System.out.println("Дальность " + fuelcap * mpg + " миль");
