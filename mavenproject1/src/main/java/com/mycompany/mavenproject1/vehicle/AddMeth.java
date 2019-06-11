@@ -23,7 +23,7 @@ public class AddMeth {
 		System.out.println("Cпopтивный автомобиль может перевезти " + sportscar.passengers + " пассажиров.");
 		sportscar.range();//отобразить дальность поездки спортивного автомобиля 
 		
-		minivan.myMeth();
+//		minivan.myMeth();
 		
 	}
 

@@ -10,5 +10,6 @@ public class ArrayDemo {
 
         for (i = 0; i < 10; i = i+1)
             System.out.println("Элемент["+ i +"]: " + sample[i]);
+        }
     }
-}
+
