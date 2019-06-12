@@ -5,7 +5,7 @@ public class ArrayErr {
         int sample[] = new int[10];
         int i;
 
-        // Искусственно создать выход индекса за границы массива
+        // Искусственно создать выход индекса за границы массива  - ошибка 'ArrayindexOutOfBoundsException'
         for (i = 0; i < 100; i = i+1)
             sample[i] = i;
     }
