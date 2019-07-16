@@ -27,6 +27,7 @@ public class Bubble {
                     nums[b] = t;
                 }
             }
+        // Отобразить отсортированный массив
         System.out.println("Отсортированный массив: ");
             for (int i = 0; i < size; i++)
                 System.out.println(" " + nums[i]);
