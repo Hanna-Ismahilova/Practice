@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="ed2d6d99-a120-4332-b6ca-5a498bf252c3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mycompany/mavenproject1/classes/Queue/QDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/mavenproject1/classes/queue/QDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mycompany/mavenproject1/classes/helpDemo/HelpClassDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/mavenproject1/classes/helpDemo/HelpClassDemo.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -17,20 +19,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/mavenproject1/classes/helpDemo/Help.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/mavenproject1/classes/queue/QDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="58" column="4" selection-start-line="58" selection-start-column="4" selection-end-line="61" selection-end-column="5" />
+            <state relative-caret-position="493">
+              <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/mavenproject1/classes/helpDemo/HelpClassDemo.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/mavenproject1/classes/queue/Queue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="51">
+              <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -65,10 +67,13 @@
         <option value="$PROJECT_DIR$/src/main/java/com/mycompany/mavenproject1/classes/arrays/LengthDemoArray.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/mycompany/mavenproject1/classes/arrays/CompareArraysWithLength.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/mycompany/mavenproject1/classes/Queue/QDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mycompany/mavenproject1/classes/helpDemo/HelpClassDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mycompany/mavenproject1/classes/queue/Queue.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mycompany/mavenproject1/classes/queue/QDemo.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1912" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
@@ -132,68 +137,7 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="mavenproject1" type="462c0819:PsiDirectoryNode" />
               <item name="classes" type="462c0819:PsiDirectoryNode" />
-              <item name="arrays" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mavenproject1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mavenproject1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="mavenproject1" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
-              <item name="arrays" type="462c0819:PsiDirectoryNode" />
-              <item name="arraySorting" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mavenproject1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mavenproject1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="mavenproject1" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
-              <item name="constructor" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mavenproject1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mavenproject1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="mavenproject1" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
-              <item name="helpDemo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mavenproject1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mavenproject1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="mavenproject1" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
-              <item name="Queue" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mavenproject1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mavenproject1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="mavenproject1" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
-              <item name="thisDemo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mavenproject1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mavenproject1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="mavenproject1" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
-              <item name="vehicle" type="462c0819:PsiDirectoryNode" />
+              <item name="queue" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mavenproject1" type="b2602c69:ProjectViewProjectNode" />
@@ -226,7 +170,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HelpClassDemo">
+  <component name="RunManager" selected="Application.QDemo">
     <configuration name="AssignARef" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.mycompany.mavenproject1.classes.arrays.AssignARef" />
       <module name="mavenproject1" />
@@ -279,12 +223,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Squares" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mycompany.mavenproject1.classes.arrays.Squares" />
+    <configuration name="QDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mycompany.mavenproject1.classes.queue.QDemo" />
       <module name="mavenproject1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.mycompany.mavenproject1.classes.arrays.*" />
+          <option name="PATTERN" value="com.mycompany.mavenproject1.classes.queue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -294,11 +238,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QDemo" />
         <item itemvalue="Application.HelpClassDemo" />
         <item itemvalue="Application.CompareArraysWithLength" />
         <item itemvalue="Application.LengthDemoArray" />
         <item itemvalue="Application.AssignARef" />
-        <item itemvalue="Application.Squares" />
       </list>
     </recent_temporary>
   </component>
@@ -316,8 +260,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1056" extended-state="7" />
-    <editor active="true" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26332623" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -349,13 +292,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/mavenproject1/classes/arrays/MinMaxEnhancement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/mavenproject1/classes/arrays/MinMax.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
@@ -675,13 +611,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/mavenproject1/classes/Queue/QDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/mavenproject1/classes/thisDemo/PwrDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -705,8 +634,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/mavenproject1/classes/helpDemo/HelpClassDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="408">
+          <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/mavenproject1/classes/queue/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/mavenproject1/classes/queue/QDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
         </state>
       </provider>
     </entry>

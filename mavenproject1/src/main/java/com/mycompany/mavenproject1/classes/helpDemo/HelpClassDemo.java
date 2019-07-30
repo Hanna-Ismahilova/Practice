@@ -12,7 +12,6 @@ public class HelpClassDemo {
 
                 choice = (char) System.in.read();
 
-
                 do {
                     ignore = (char) System.in.read();
                 } while (ignore != '\n');
