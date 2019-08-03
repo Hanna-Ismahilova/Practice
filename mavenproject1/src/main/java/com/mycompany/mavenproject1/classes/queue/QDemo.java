@@ -24,10 +24,10 @@ public class QDemo {
         }
         System.out.println("\n");
 
-        System.out.println("Иcпoльзoвaниe очереди srnallQ\n" +
+        System.out.println("Иcпoльзoвaниe очереди smallQ\n" +
                 "для генерации ошибок");
 
-        //Использовать очередь srnallQ для генерации ошибок
+        //Использовать очередь smallQ для генерации ошибокzaq1XSW@
         for (i = i; i < 10; i++){
             System.out.println("Пoпыткa сохранения " + (char) ('Z' - i));
 
@@ -37,8 +37,8 @@ public class QDemo {
         }
         System.out.println();
 
-        //Дополнительные ошибки при обращении к очереди srnallQ
-        System.out.println("Coдepжимoe srnallQ: ");
+        //Дополнительные ошибки при обращении к очереди smallQ
+        System.out.println("Coдepжимoe smallQ: ");
         for (i = 0; i < 10; i++){
             ch = smallQ.get();
             if (ch != (char) 0) System.out.println(ch);
