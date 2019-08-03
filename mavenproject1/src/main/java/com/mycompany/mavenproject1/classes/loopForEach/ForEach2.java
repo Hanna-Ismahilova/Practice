@@ -1,4 +1,4 @@
-package com.mycompany.mavenproject1.classes.loop;
+package com.mycompany.mavenproject1.classes.loopForEach;
 
 public class ForEach2 {
 

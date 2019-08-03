@@ -1,6 +1,4 @@
-package com.mycompany.mavenproject1.classes.loop;
-
-import com.sun.javaws.IconUtil;
+package com.mycompany.mavenproject1.classes.loopForEach;
 
 public class ForEach {
 
