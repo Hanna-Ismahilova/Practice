@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ed2d6d99-a120-4332-b6ca-5a498bf252c3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mycompany/mavenproject1/classes/loop/ForEach.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mycompany/mavenproject1/classes/loop/ForEach2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/mavenproject1/classes/loopForEach/ForEach2.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,39 +41,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StringDemo">
-    <configuration name="ForEach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mycompany.mavenproject1.classes.loopForEach.ForEach" />
-      <module name="mavenproject1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.mycompany.mavenproject1.classes.loopForEach.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.StringArrays">
     <configuration name="ForEach2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.mycompany.mavenproject1.classes.loopForEach.ForEach2" />
       <module name="mavenproject1" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.mycompany.mavenproject1.classes.loopForEach.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="QDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mycompany.mavenproject1.classes.queue.QDemo" />
-      <module name="mavenproject1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.mycompany.mavenproject1.classes.queue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,6 +68,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StringArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mycompany.mavenproject1.string.String.StringArrays" />
+      <module name="mavenproject1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mycompany.mavenproject1.string.String.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StringDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.mycompany.mavenproject1.string.String.StringDemo" />
       <module name="mavenproject1" />
@@ -109,13 +94,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StringOps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mycompany.mavenproject1.string.String.StringOps" />
+      <module name="mavenproject1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mycompany.mavenproject1.string.String.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringArrays" />
+        <item itemvalue="Application.StringOps" />
         <item itemvalue="Application.StringDemo" />
         <item itemvalue="Application.Search" />
         <item itemvalue="Application.ForEach2" />
-        <item itemvalue="Application.ForEach" />
-        <item itemvalue="Application.QDemo" />
       </list>
     </recent_temporary>
   </component>
