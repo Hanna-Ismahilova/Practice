@@ -1,4 +1,4 @@
-package com.mycompany.mavenproject1.forEachLoop;
+package com.mycompany.mavenproject1.classes.forEachLoop;
 
 //Циклы for-each предназначены только для чтения
 public class NoChange {

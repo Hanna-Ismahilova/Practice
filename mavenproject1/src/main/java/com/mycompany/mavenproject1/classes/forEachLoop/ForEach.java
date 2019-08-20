@@ -1,4 +1,4 @@
-package com.mycompany.mavenproject1.forEachLoop;
+package com.mycompany.mavenproject1.classes.forEachLoop;
 
 //Использование разновидности for-each цикла for
 public class ForEach {
