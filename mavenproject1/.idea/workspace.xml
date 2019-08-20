@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ed2d6d99-a120-4332-b6ca-5a498bf252c3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mycompany/mavenproject1/forEachLoop/ForEach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/mavenproject1/classes/forEachLoop/ForEach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mycompany/mavenproject1/forEachLoop/NoChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/mavenproject1/classes/forEachLoop/NoChange.java" afterDir="false" />
+    <list default="true" id="ed2d6d99-a120-4332-b6ca-5a498bf252c3" name="Default Changelist" comment="Merge branch 'master' of https://github.com/Hanna-Ismahilova/Java_Practice&#10;&#10;# Conflicts:&#10;#&#9;mavenproject1/.idea/workspace.xml">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/mavenproject1/classes/loopForEach/ForEach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/mavenproject1/classes/loopForEach/ForEach2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/mavenproject1/classes/loopForEach/ForEach3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/mavenproject1/classes/loopForEach/Search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/mavenproject1/classes/operators/UpCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/mavenproject1/string/String/CLDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/mavenproject1/string/String/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/mavenproject1/string/String/StringArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/mavenproject1/string/String/StringDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/mavenproject1/string/String/StringOps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/mavenproject1/string/String/StringSwitch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/mavenproject1/string/String/SubStr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mycompany/mavenproject1/classes/queue/QDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/mavenproject1/classes/queue/QDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mycompany/mavenproject1/classes/stringClass/StringArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/mavenproject1/classes/stringClass/StringArrays.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -23,7 +34,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/mavenproject1/classes/forEachLoop/ForEach.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="357">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
@@ -32,7 +43,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/mavenproject1/classes/forEachLoop/NoChange.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
-              <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+              <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -41,7 +52,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/mavenproject1/classes/forEachLoop/ForEach2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="459">
-              <caret line="27" column="9" lean-forward="true" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+              <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -50,7 +61,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/mavenproject1/classes/forEachLoop/Search.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
-              <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+              <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -59,16 +70,25 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/mavenproject1/classes/stringClass/StringDemo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/mavenproject1/classes/stringClass/StrOperations.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="490">
+              <caret line="45" selection-start-line="45" selection-end-line="45" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/mavenproject1/classes/stringClass/StrOperations.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/mavenproject1/classes/stringClass/StringArrays.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="422">
-              <caret line="41" column="34" lean-forward="true" selection-start-line="41" selection-start-column="34" selection-end-line="41" selection-end-column="34" />
+            <state relative-caret-position="85">
+              <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -113,6 +133,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/mycompany/mavenproject1/classes/forEachLoop/Search.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/mycompany/mavenproject1/classes/stringClass/StringDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/mycompany/mavenproject1/classes/stringClass/StrOperations.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mycompany/mavenproject1/classes/stringClass/StringArrays.java" />
       </list>
     </option>
   </component>
@@ -135,51 +156,6 @@
             <path>
               <item name="mavenproject1" type="b2602c69:ProjectViewProjectNode" />
               <item name="mavenproject1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mavenproject1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mavenproject1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mavenproject1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mavenproject1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mavenproject1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mavenproject1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mavenproject1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mavenproject1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="mavenproject1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mavenproject1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mavenproject1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="mavenproject1" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mavenproject1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mavenproject1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="mavenproject1" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
-              <item name="stringClass" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -301,7 +277,7 @@
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18496802" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.282516" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -311,12 +287,12 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32502708" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32502708" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.14842904" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.14842904" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32936078" />
@@ -643,48 +619,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/mavenproject1/classes/forEachLoop.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/mavenproject1/classes/forEachLoop.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/mavenproject1/classes/forEachLoop/ForEach.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/mavenproject1/classes/forEachLoop/NoChange.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/mavenproject1/classes/forEachLoop/ForEach2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
-          <caret line="27" column="9" lean-forward="true" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+          <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/mavenproject1/classes/forEachLoop/Search.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
-          <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/mavenproject1/classes/stringClass/StringDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/mavenproject1/classes/stringClass/StrOperations.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="422">
-          <caret line="41" column="34" lean-forward="true" selection-start-line="41" selection-start-column="34" selection-end-line="41" selection-end-column="34" />
+        <state relative-caret-position="490">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
         </state>
       </provider>
     </entry>
